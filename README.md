@@ -1,73 +1,39 @@
 # Hi, I'm Supraja R 👋
 
-### 💻 Computer Science Student | Aspiring Software Engineer | Exploring Product Design
+### 🎓 First-Year Computer Science Student
 
-🎓 B.E. Computer Science Engineering student at **St. Joseph's College of Engineering, Chennai**
+I'm a first-year **B.E. Computer Science Engineering student** at
+**St. Joseph's College of Engineering, Chennai**.
 
-I’m currently building my foundation in **software development** while exploring my interest in **UI/UX and Product Design**.
+I'm currently learning the fundamentals of programming and exploring
+different areas of Computer Science to understand what I enjoy the most.
 
----
+## 🌱 Currently Learning
 
-## 🚀 About Me
+- C
+- C++
+- Python
+- Programming Fundamentals
 
-- 🎓 Currently pursuing **B.E. Computer Science Engineering**
-- 💻 Learning and practicing **C, C++ & Python**
-- 🎨 Interested in **UI/UX and Product Design**
-- 🧠 Improving my **problem-solving and programming skills**
-- 🌱 Currently learning **Data Structures & Algorithms**
-- 🚀 Building projects to strengthen my development skills
-- 🎯 Long-term goal: Become a **Software Engineer with strong Product Design skills**
+## 🎯 My Goals
 
----
+- Build strong programming fundamentals
+- Improve my problem-solving skills
+- Work on small projects as I learn
+- Explore Software Engineering and Product Design
+- Keep learning and growing throughout my CSE journey
 
-## 🛠️ Tech Stack
+## 💻 Interests
 
-### Programming Languages
-`C` `C++` `Python`
+- Software Development
+- Technology
+- Design & Creativity
 
-### Currently Exploring
-`Data Structures & Algorithms`  
-`Git & GitHub`  
-`HTML` `CSS` `JavaScript`  
-`UI/UX Design` `Figma`
-
----
-
-## 📂 Projects
-
-🔹 **C Programming Project**  
-A project focused on applying fundamental C programming concepts and problem-solving.
-
-🔹 **C++ Project**  
-A project designed to strengthen my understanding of C++ and object-oriented programming.
-
-🚧 More projects coming soon...
-
----
-
-## 🎨 My Interests
-
-💻 Software Development  
-🎨 UI/UX & Product Design  
-🧠 Problem Solving  
-📚 Continuous Learning  
-✨ Creative Technology
-
----
-
-## 🎯 My Career Goal
-
-> **To become a Software Engineer who can not only build technology but also understand how people experience it.**
-
-I want to combine **coding + creativity + product thinking** to build useful and user-friendly digital products.
-
----
 ## 📫 Connect With Me
 
-📧 **Email:** suprajaraman70@gmail.com  
+📧 **Email:** suprajaraman61@gmail.com  
 💼 **LinkedIn:** [Supraja Rajaraman](https://www.linkedin.com/in/supraja-rajaraman-2487ba440/)
+
 ---
 
-### ✨ "Learning. Building. Designing. Growing."
-
-⭐ Thanks for visiting my profile!
+✨ *Just getting started — learning, building, and growing one step at a time.*

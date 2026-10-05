@@ -31,7 +31,7 @@ different areas of Computer Science to understand what I enjoy the most.
 
 ## 📫 Connect With Me
 
-📧 **Email:** suprajaraman61@gmail.com  
+📧 **Email:** suprajaraman70@gmail.com  
 💼 **LinkedIn:** [Supraja Rajaraman](https://www.linkedin.com/in/supraja-rajaraman-2487ba440/)
 
 ---
